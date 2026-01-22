@@ -1,0 +1,12 @@
+2026-01-21 13:36:39,864 INFO Searching r/television for 'Heated Rivalry' (limit=100, sort=new, t=all)
+2026-01-21 13:36:40,693 INFO Found 45 posts
+2026-01-21 13:36:44,824 INFO Wrote plot: C:\Users\jjf3\projects\heated_rivalry_tracker\out\episode_comment_growth.png
+2026-01-21 13:36:45,172 INFO Wrote plot: C:\Users\jjf3\projects\heated_rivalry_tracker\out\non_episode_comment_growth.png
+2026-01-21 13:36:45,173 INFO Wrote dashboard HTML: C:\Users\jjf3\projects\heated_rivalry_tracker\out\dashboard_tv_heatedrivalry.html
+2026-01-21 13:36:45,173 INFO Done.
+2026-01-21 13:42:10,502 INFO Searching r/television for 'Heated Rivalry' (limit=100, sort=new, t=all)
+2026-01-21 13:42:11,438 INFO Found 45 posts
+2026-01-21 13:42:12,340 INFO Wrote plot: C:\Users\jjf3\projects\heated_rivalry_tracker\out\episode_comment_growth.png
+2026-01-21 13:42:12,694 INFO Wrote plot: C:\Users\jjf3\projects\heated_rivalry_tracker\out\non_episode_comment_growth.png
+2026-01-21 13:42:12,695 INFO Wrote dashboard HTML: C:\Users\jjf3\projects\heated_rivalry_tracker\out\dashboard_tv_heatedrivalry.html
+2026-01-21 13:42:12,695 INFO Done.
